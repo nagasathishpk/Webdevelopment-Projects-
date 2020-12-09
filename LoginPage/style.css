@@ -1,0 +1,17 @@
+body{
+    background: rgb(77,65,66);
+    background: linear-gradient(90deg, rgba(77,65,66,1) 0%, rgba(108,9,106,1) 32%, rgba(23,0,91,1) 52%, rgba(87,2,79,1) 76%, rgba(106,20,49,1) 100%);}
+#log{
+    padding: 15px;
+    background-color: #d6caf5;
+}
+#logform{
+    padding-top: 10%;
+    
+}
+.bg-info {
+    background-color: #ad048c!important;
+}
+nav.border-bottom {
+    border-bottom: 1px solid #9749e2!important;
+}

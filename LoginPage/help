@@ -1,0 +1,82 @@
+23
+flatuicolor
+
+button type{
+btn-default
+btn-primary
+btn-success
+btn-info
+btn-warning
+btn-danger
+btn-link
+btn-block
+btn-group
+btn-group-vertical
+badge
+}
+{
+    <blockquote>
+        <footer></footer>
+    </blockquote>
+}
+Table{
+    table-striped
+    table-bordered
+    table-hover
+    table-condensed
+}
+image{
+    img-rounded
+    img-circle
+    img-thumnail
+    img-responsive
+}
+container-fluid
+jumbotron
+glyphicon
+pull-right
+navigation{
+    nav-stacked
+    list-group
+    list-group-item
+    list-group-item-heading
+    list-group-item-text
+
+
+}
+navtag{
+    navbar
+    navbar-default
+    navbar-inverse
+    navbar-header
+    navbar-brand
+    nav navbar-nav
+    navbar-right
+    navbar-fixed-top
+    navbar-toggle data-toggle="collapse" data-target="id"
+    collapse navbar-collapse
+}
+alert{
+    close
+    data-dismiss="alert"
+    aria-label="close"
+}
+photo-display{
+   class= "modal fade" role ="dialog" id=""
+   modal-dialog
+   modal-content
+   modal-body
+
+}
+progree{
+    progress
+    progress-bar
+    progress-bar-striped
+}
+form{
+    form-group
+    form-control
+    control-label
+    form-horizontal
+    form-inline
+}
